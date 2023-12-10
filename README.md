@@ -27,3 +27,7 @@ Dataset dibagi berdasarkan distrik wilayahnya. Terdapat 12 distrik yaitu Aotizho
 - Bagaimana perbandingan rata-rata AQI perbulannya berdasarkan polutan PM2.5 pada Station Changping, Dongsi, dan Huairou?
 - Apakah terdapat perbedaan konsentrasi *Nitrogen Dioxide* (NO2) antara stasiun pengukuran di wilayah urban (Dongsi) dan pedesaan (Huairou)?
 - Apakah konsentrasi *Carbon Monoxide* (CO) cenderung lebih rendah selama periode hujan di Dongsi?
+
+## Link Dashboard
+- [GitHub Repository](https://github.com/wildanhanf/air-quality-dashboard).
+- Access the [Dashboard](https://air-quality-dashboard-submission.streamlit.app/).
