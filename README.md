@@ -30,4 +30,5 @@ Dataset dibagi berdasarkan distrik wilayahnya. Terdapat 12 distrik yaitu Aotizho
 
 ## Link Dashboard
 - [GitHub Repository](https://github.com/wildanhanf/air-quality-dashboard).
-- Access the [Dashboard](https://air-quality-dashboard-submission.streamlit.app/).
+- Access the [Streamlit Dashboard](https://air-quality-dashboard-submission.streamlit.app/).
+- [Looker Dashboard](https://lookerstudio.google.com/reporting/355c672c-6865-4721-abc6-fe9aa793b46b).
